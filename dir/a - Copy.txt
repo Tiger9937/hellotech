@@ -1,4 +1,0 @@
-hello 
-i love react
-hello love
-love you javascript
